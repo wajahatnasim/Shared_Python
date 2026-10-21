@@ -15,4 +15,4 @@ dependencies = []
 Repository = "https://github.com/wajahatnasim/Shared_Python"
 
 [tool.setuptools]
-py-modules = ["HelloWorld"]
+py-modules = ["HelloWajahat"]

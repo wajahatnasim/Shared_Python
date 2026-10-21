@@ -1,0 +1,6 @@
+HelloWorld.py
+pyproject.toml
+shared_python.egg-info/PKG-INFO
+shared_python.egg-info/SOURCES.txt
+shared_python.egg-info/dependency_links.txt
+shared_python.egg-info/top_level.txt
